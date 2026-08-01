@@ -1,0 +1,10 @@
+Django
+numpy
+Pillow
+tensorflow
+keras
+h5py
+protobuf
+absl-py
+grpcio
+tensorboard
